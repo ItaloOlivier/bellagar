@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Homepage / Main Profile -->
+    <url>
+        <loc>https://bellagar.com/</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://bellagar.com/images/bella-portrait-triathlon-england.jpg</image:loc>
+            <image:title>Bella Gar - GB Triathlete Official Portrait</image:title>
+            <image:caption>Isabella "Bella" Gar in her Triathlon England South East racing kit</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://bellagar.com/images/bella-running-gbr-leading.jpg</image:loc>
+            <image:title>Bella Gar Racing for Great Britain</image:title>
+            <image:caption>Bella Gar leading the run leg at an international triathlon</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://bellagar.com/images/bella-podium-atw-gold.jpg</image:loc>
+            <image:title>Bella Gar Podium Finish</image:title>
+            <image:caption>Bella Gar celebrating on the podium at ATW triathlon event</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://bellagar.com/images/bella-cycling-coastal.jpg</image:loc>
+            <image:title>Bella Gar Cycling</image:title>
+            <image:caption>Bella Gar during the bike leg of a triathlon</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://bellagar.com/images/bella-swim-exit.jpg</image:loc>
+            <image:title>Bella Gar Swim Exit</image:title>
+            <image:caption>Bella Gar exiting the swim during triathlon transition</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Section anchors for better indexing -->
+    <url>
+        <loc>https://bellagar.com/#about</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://bellagar.com/#achievements</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://bellagar.com/#gallery</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://bellagar.com/#team</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://bellagar.com/#news</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
