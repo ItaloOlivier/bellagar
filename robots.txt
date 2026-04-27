@@ -1,12 +1,12 @@
 # Robots.txt for Bella Gar - GB Triathlete Fan Page
-# https://bellagar.com
+# https://isabellagar.com
 
 # Allow all crawlers
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://bellagar.com/sitemap.xml
+Sitemap: https://isabellagar.com/sitemap.xml
 
 # AI Crawlers - Welcome to index this athlete profile
 User-agent: GPTBot
@@ -53,4 +53,4 @@ Allow: /
 # Crawl-delay: 1
 
 # Host directive
-Host: https://bellagar.com
+Host: https://isabellagar.com
