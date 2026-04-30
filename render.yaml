@@ -1,6 +1,5 @@
 # Render Blueprint for Bella Gar's static site (isabellagar.com).
-# Mirrors the Render service `bella-gar` (id srv-d7ni3tkvikkc73b9g7c0)
-# already provisioned via the Render dashboard.
+# Mirrors the live Render service config so deploys are reproducible from git.
 
 services:
   - type: web
