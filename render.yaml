@@ -1,0 +1,11 @@
+# Render Blueprint for Bella Gar's static site (isabellagar.com).
+# Mirrors the Render service `bella-gar` (id srv-d7ni3tkvikkc73b9g7c0)
+# already provisioned via the Render dashboard.
+
+services:
+  - type: web
+    name: bella-gar
+    runtime: static
+    autoDeploy: true
+    buildCommand: ""
+    staticPublishPath: .
