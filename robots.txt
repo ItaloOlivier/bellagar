@@ -54,3 +54,16 @@ Allow: /
 
 # Host directive
 Host: https://isabellagar.com
+
+# AI/LLM crawlers — added by ai-bot-audit (allow visibility/citation/ads bots)
+# OpenAI OAI-SearchBot: indexes for ChatGPT search / citations
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI OAI-AdsBot: validates ChatGPT ad landing pages
+User-agent: OAI-AdsBot
+Allow: /
+
+# Anthropic ClaudeBot: train + search
+User-agent: ClaudeBot
+Allow: /
